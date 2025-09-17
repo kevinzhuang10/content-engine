@@ -52,6 +52,8 @@ Use these files when I request structured feature development using PRDs:
 - `/ai-dev-tasks/generate-tasks.md` - Break PRDs into actionable task lists
 - `/ai-dev-tasks/process-task-list.md` - Execute tasks systematically
 
+- let's put all the generated PRDs under the /prd folder and all the generated tasks under the /tasks folder
+
 Use these when implementing complex features that benefit from structured planning and step-by-step execution.
 
 ## Configuration Notes
